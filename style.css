@@ -2,6 +2,6 @@ body{
   color: #444;
 }
 .rankingMatches{
-  display:flex;
+  display: flex;
+  flex-direction: column;
 }
-.containerf
