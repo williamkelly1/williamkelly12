@@ -1,0 +1,7 @@
+body{
+  color: #444;
+}
+.rankingMatches{
+  display: flex;
+  flex-direction: column;
+}
