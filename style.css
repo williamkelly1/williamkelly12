@@ -5,3 +5,5 @@ body{
   display: flex;
   flex-direction: column;
 }
+ .rankingMatches{background-color: orange;}
+.theCharacters{background-color: orange;}
