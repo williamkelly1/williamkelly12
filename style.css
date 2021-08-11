@@ -1,11 +1,11 @@
-body{
+body {
   color: #444;
+  background-color: orange;
 }
-.rankingMatches{
+.rankingMatches {
   display: flex;
   flex-direction: column;
 }
- body {
-background-color: orange;
+header .navbar{
+  background-color: cyan;
 }
-
